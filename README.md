@@ -1,2 +1,1 @@
-# 11_AI_Project_Fintech_Neural-Network-Challenge-02
-11_AI_Project_Fintech_Neural-Network-Challenge-02
+# Neural-Network-Challenge-02
